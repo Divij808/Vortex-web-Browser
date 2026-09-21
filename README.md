@@ -76,4 +76,4 @@ Its licenced with CC
 
 Developed by Divij.
 
-Vortex is an ongoing project and will continue to change as new features are added.
+
